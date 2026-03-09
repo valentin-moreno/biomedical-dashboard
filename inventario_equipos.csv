@@ -1,0 +1,437 @@
+Equipo_ID,Nombre_Equipo,Servicio,Criticidad,Marca,Modelo,Serie,Año_Adquisicion,Vida_Util_Anos,Año_Vencimiento,Costo_COP,Estado,Ubicacion,Freq_PM_Meses
+BIO-0001,Ventilador Mecánico Adulto,UCI Adultos,Crítico,Draeger,DRA-708,SN803003,2022,10,2032,356658055,Operativo,Piso 2 - Cama 4,3
+BIO-0002,Ventilador Mecánico Adulto,UCI Adultos,Crítico,Draeger,DRA-422,SN621696,2022,10,2032,348169199,Operativo,Piso 3 - Cama 15,3
+BIO-0003,Ventilador Mecánico Adulto,UCI Adultos,Crítico,Draeger,DRA-154,SN211730,2019,10,2029,346440592,Operativo,Piso 5 - Cama 11,3
+BIO-0004,Ventilador Mecánico Neonatal,Neonatología,Crítico,Draeger,DRA-895,SN457206,2018,10,2028,297884423,Operativo,Neonatología,3
+BIO-0005,Ventilador Mecánico Neonatal,Neonatología,Crítico,Draeger,DRA-410,SN671268,2015,10,2025,295022220,Operativo,Neonatología,3
+BIO-0006,Ventilador Mecánico Neonatal,Neonatología,Crítico,Draeger,DRA-482,SN698152,2016,10,2026,289724705,Operativo,Neonatología,3
+BIO-0007,Ventilador Mecánico Neonatal,Neonatología,Crítico,Draeger,DRA-788,SN318856,2019,10,2029,265383262,Operativo,Neonatología,3
+BIO-0008,Monitor Multiparámetro UCI,UCI Adultos,Crítico,Philips,PHI-634,SN806918,2019,10,2029,47706653,Operativo,Piso 1 - Cama 14,3
+BIO-0009,Monitor Multiparámetro UCI,UCI Adultos,Crítico,Philips,PHI-354,SN855248,2018,10,2028,51767869,Operativo,Piso 2 - Cama 9,3
+BIO-0010,Monitor Multiparámetro UCI,UCI Adultos,Crítico,Philips,PHI-517,SN364373,2013,10,2023,52402344,Operativo,Piso 3 - Cama 12,3
+BIO-0011,Monitor Multiparámetro Urgencias,Urgencias,Crítico,Mindray,MIN-674,SN350427,2022,10,2032,38337754,Operativo,Urgencias,3
+BIO-0012,Monitor Multiparámetro Urgencias,Urgencias,Crítico,Mindray,MIN-717,SN499720,2016,10,2026,45241742,Operativo,Urgencias,3
+BIO-0013,Monitor Multiparámetro Urgencias,Urgencias,Crítico,Mindray,MIN-926,SN517795,2019,10,2029,45193941,Operativo,Urgencias,3
+BIO-0014,Monitor Multiparámetro Urgencias,Urgencias,Crítico,Mindray,MIN-702,SN787429,2016,10,2026,43633908,Operativo,Urgencias,3
+BIO-0015,Monitor Multiparámetro Urgencias,Urgencias,Crítico,Mindray,MIN-608,SN725888,2021,10,2031,44931631,Operativo,Urgencias,3
+BIO-0016,Monitor Multiparámetro Piso,Hospitalización,Alto,Nihon Kohden,NIH-842,SN409610,2022,12,2034,35504314,Operativo,Piso 5 - Cama 16,4
+BIO-0017,Monitor Multiparámetro Piso,Hospitalización,Alto,Nihon Kohden,NIH-799,SN347114,2012,12,2024,32682085,Operativo,Piso 4 - Cama 19,4
+BIO-0018,Monitor Multiparámetro Piso,Hospitalización,Alto,Nihon Kohden,NIH-407,SN448901,2012,12,2024,33862176,Operativo,Piso 5 - Cama 15,4
+BIO-0019,Monitor Multiparámetro Piso,Hospitalización,Alto,Nihon Kohden,NIH-290,SN866012,2017,12,2029,36481649,Operativo,Piso 3 - Cama 5,4
+BIO-0020,Monitor Multiparámetro Piso,Hospitalización,Alto,Nihon Kohden,NIH-315,SN483001,2021,12,2033,35222128,Operativo,Piso 2 - Cama 14,4
+BIO-0021,Monitor Multiparámetro Piso,Hospitalización,Alto,Nihon Kohden,NIH-511,SN138725,2016,12,2028,37883923,Operativo,Piso 3 - Cama 8,4
+BIO-0022,Monitor Multiparámetro Piso,Hospitalización,Alto,Nihon Kohden,NIH-262,SN542391,2014,12,2026,37976466,Operativo,Piso 3 - Cama 3,4
+BIO-0023,Bomba de Infusión Volumétrica,UCI Adultos,Alto,BD,BD-509,SN202611,2020,12,2032,14064865,Operativo,Piso 1 - Cama 4,4
+BIO-0024,Bomba de Infusión Volumétrica,UCI Adultos,Alto,BD,BD-307,SN619379,2012,12,2024,14662644,Operativo,Piso 2 - Cama 6,4
+BIO-0025,Bomba de Infusión Volumétrica,UCI Adultos,Alto,BD,BD-695,SN739398,2016,12,2028,15244952,Operativo,Piso 2 - Cama 6,4
+BIO-0026,Bomba de Infusión Volumétrica,UCI Adultos,Alto,BD,BD-875,SN265145,2016,12,2028,12722944,Operativo,Piso 3 - Cama 17,4
+BIO-0027,Bomba de Infusión Volumétrica,Hospitalización,Alto,Baxter,BAX-275,SN666163,2021,12,2033,11471588,Operativo,Piso 5 - Cama 2,4
+BIO-0028,Bomba de Infusión Volumétrica,Hospitalización,Alto,Baxter,BAX-369,SN774520,2012,12,2024,13591401,Operativo,Piso 2 - Cama 19,4
+BIO-0029,Bomba de Infusión Volumétrica,Hospitalización,Alto,Baxter,BAX-675,SN900943,2019,12,2031,13390897,Operativo,Piso 4 - Cama 5,4
+BIO-0030,Bomba de Infusión Volumétrica,Hospitalización,Alto,Baxter,BAX-427,SN950002,2015,12,2027,12271971,Operativo,Piso 3 - Cama 19,4
+BIO-0031,Bomba de Jeringa,UCI Adultos,Alto,BD,BD-173,SN981770,2017,12,2029,8538388,Operativo,Piso 5 - Cama 7,4
+BIO-0032,Bomba de Jeringa,UCI Adultos,Alto,BD,BD-829,SN247711,2012,12,2024,9894342,Operativo,Piso 1 - Cama 6,4
+BIO-0033,Bomba de Jeringa,UCI Adultos,Alto,BD,BD-836,SN889545,2013,12,2025,8186553,Operativo,Piso 3 - Cama 15,4
+BIO-0034,Bomba de Jeringa,UCI Adultos,Alto,BD,BD-959,SN838720,2018,12,2030,9186270,Operativo,Piso 2 - Cama 12,4
+BIO-0035,Bomba de Jeringa,Neonatología,Crítico,Braun,BRA-131,SN482892,2022,10,2032,9252805,Operativo,Neonatología,3
+BIO-0036,Bomba de Jeringa,Neonatología,Crítico,Braun,BRA-975,SN939401,2018,10,2028,10027095,Operativo,Neonatología,3
+BIO-0037,Bomba de Jeringa,Neonatología,Crítico,Braun,BRA-779,SN919109,2021,10,2031,9514468,Operativo,Neonatología,3
+BIO-0038,Bomba de Jeringa,Neonatología,Crítico,Braun,BRA-604,SN657686,2013,10,2023,10573789,Operativo,Neonatología,3
+BIO-0039,Desfibrilador Bifásico,Urgencias,Crítico,Zoll,ZOL-770,SN658668,2014,10,2024,79035371,Operativo,Urgencias,3
+BIO-0040,Desfibrilador Bifásico,Urgencias,Crítico,Zoll,ZOL-100,SN499304,2013,10,2023,76044681,Operativo,Urgencias,3
+BIO-0041,Desfibrilador Bifásico,Urgencias,Crítico,Zoll,ZOL-835,SN351183,2012,10,2022,71835967,Operativo,Urgencias,3
+BIO-0042,Desfibrilador Bifásico,UCI Adultos,Crítico,Philips,PHI-106,SN742300,2021,10,2031,77328705,Operativo,Piso 5 - Cama 2,3
+BIO-0043,Desfibrilador Bifásico,UCI Adultos,Crítico,Philips,PHI-922,SN461880,2017,10,2027,75966337,Operativo,Piso 3 - Cama 5,3
+BIO-0044,Desfibrilador Bifásico,UCI Adultos,Crítico,Philips,PHI-312,SN197395,2013,10,2023,77402861,Operativo,Piso 1 - Cama 12,3
+BIO-0045,Desfibrilador Bifásico,UCI Adultos,Crítico,Philips,PHI-662,SN258426,2015,10,2025,86712759,Operativo,Piso 4 - Cama 3,3
+BIO-0046,Desfibrilador Bifásico,UCI Adultos,Crítico,Philips,PHI-317,SN554506,2013,10,2023,77218782,Operativo,Piso 3 - Cama 18,3
+BIO-0047,DEA,Hospitalización,Crítico,Zoll,ZOL-427,SN137946,2012,10,2022,22921789,Operativo,Piso 3 - Cama 6,3
+BIO-0048,DEA,Hospitalización,Crítico,Zoll,ZOL-292,SN335880,2012,10,2022,23945781,Operativo,Piso 2 - Cama 12,3
+BIO-0049,DEA,Hospitalización,Crítico,Zoll,ZOL-145,SN790694,2016,10,2026,23507915,Operativo,Piso 5 - Cama 2,3
+BIO-0050,DEA,Hospitalización,Crítico,Zoll,ZOL-541,SN566405,2015,10,2025,20267556,Dado de baja,Piso 5 - Cama 11,3
+BIO-0051,Electrobisturí Monopolar,Quirófano,Alto,Valleylab,VAL-160,SN779012,2022,12,2034,55169155,Operativo,Quirófano,4
+BIO-0052,Electrobisturí Monopolar,Quirófano,Alto,Valleylab,VAL-710,SN292527,2014,12,2026,61478391,Operativo,Quirófano,4
+BIO-0053,Electrobisturí Monopolar,Quirófano,Alto,Valleylab,VAL-243,SN712988,2020,12,2032,57540023,Operativo,Quirófano,4
+BIO-0054,Electrobisturí Monopolar,Quirófano,Alto,Valleylab,VAL-182,SN416191,2020,12,2032,54470168,Operativo,Quirófano,4
+BIO-0055,Electrobisturí Monopolar,Quirófano,Alto,Valleylab,VAL-353,SN802531,2015,12,2027,59011530,Operativo,Quirófano,4
+BIO-0056,Electrobisturí Monopolar,Quirófano,Alto,Valleylab,VAL-654,SN943894,2018,12,2030,57168967,Operativo,Quirófano,4
+BIO-0057,Electrobisturí Bipolar,Quirófano,Alto,Erbe,ERB-481,SN792735,2020,12,2032,69150948,Operativo,Quirófano,4
+BIO-0058,Electrobisturí Bipolar,Quirófano,Alto,Erbe,ERB-510,SN359107,2013,12,2025,71715538,Operativo,Quirófano,4
+BIO-0059,Electrobisturí Bipolar,Quirófano,Alto,Erbe,ERB-822,SN946146,2016,12,2028,68079572,Operativo,Quirófano,4
+BIO-0060,Electrobisturí Bipolar,Quirófano,Alto,Erbe,ERB-724,SN888767,2015,12,2027,69867037,Operativo,Quirófano,4
+BIO-0061,Equipo de Anestesia,Quirófano,Crítico,Draeger,DRA-721,SN756356,2016,10,2026,416188919,Operativo,Quirófano,3
+BIO-0062,Equipo de Anestesia,Quirófano,Crítico,Draeger,DRA-851,SN176526,2020,10,2030,402580080,Operativo,Quirófano,3
+BIO-0063,Equipo de Anestesia,Quirófano,Crítico,Draeger,DRA-794,SN791846,2018,10,2028,385293070,Operativo,Quirófano,3
+BIO-0064,Equipo de Anestesia,Quirófano,Crítico,Draeger,DRA-688,SN117565,2014,10,2024,358440826,Operativo,Quirófano,3
+BIO-0065,Equipo de Anestesia,Quirófano,Crítico,Draeger,DRA-228,SN991053,2021,10,2031,370936250,Operativo,Quirófano,3
+BIO-0066,Equipo de Anestesia,Quirófano,Crítico,GE Datex,GE -891,SN216709,2012,10,2022,377490625,Operativo,Quirófano,3
+BIO-0067,Equipo de Anestesia,Quirófano,Crítico,GE Datex,GE -685,SN933915,2015,10,2025,368951085,Operativo,Quirófano,3
+BIO-0068,Equipo de Anestesia,Quirófano,Crítico,GE Datex,GE -446,SN522434,2016,10,2026,319504365,Operativo,Quirófano,3
+BIO-0069,Equipo de Anestesia,Quirófano,Crítico,GE Datex,GE -114,SN344361,2018,10,2028,363378721,Operativo,Quirófano,3
+BIO-0070,Equipo de Anestesia,Quirófano,Crítico,GE Datex,GE -514,SN705130,2021,10,2031,335930205,Operativo,Quirófano,3
+BIO-0071,Equipo de Anestesia,Quirófano,Crítico,GE Datex,GE -317,SN849193,2015,10,2025,351731470,Operativo,Quirófano,3
+BIO-0072,Equipo de Anestesia,Quirófano,Crítico,GE Datex,GE -512,SN958377,2013,10,2023,315286612,Operativo,Quirófano,3
+BIO-0073,Rayos X Portátil,Urgencias,Alto,Siemens,SIE-817,SN754700,2021,12,2033,229661423,Operativo,Urgencias,4
+BIO-0074,Rayos X Portátil,Urgencias,Alto,Siemens,SIE-460,SN786485,2013,12,2025,211546969,Operativo,Urgencias,4
+BIO-0075,Rayos X Portátil,Urgencias,Alto,Siemens,SIE-130,SN140554,2022,12,2034,225795486,Dado de baja,Urgencias,4
+BIO-0076,Rayos X Portátil,Urgencias,Alto,Siemens,SIE-303,SN118875,2020,12,2032,219330116,Operativo,Urgencias,4
+BIO-0077,Rayos X Portátil,Urgencias,Alto,Siemens,SIE-360,SN133964,2022,12,2034,237853422,Operativo,Urgencias,4
+BIO-0078,Rayos X Fijo,Radiología,Alto,Siemens,SIE-507,SN378396,2013,12,2025,804974387,Operativo,Radiología,4
+BIO-0079,Rayos X Fijo,Radiología,Alto,Siemens,SIE-462,SN118369,2016,12,2028,803521021,Operativo,Radiología,4
+BIO-0080,Rayos X Fijo,Radiología,Alto,Siemens,SIE-796,SN357090,2013,12,2025,797584346,Operativo,Radiología,4
+BIO-0081,Ecógrafo Portátil,Urgencias,Alto,GE,GE-779,SN937200,2014,12,2026,184067943,Operativo,Urgencias,4
+BIO-0082,Ecógrafo Portátil,Urgencias,Alto,GE,GE-879,SN127434,2019,12,2031,173479071,Operativo,Urgencias,4
+BIO-0083,Ecógrafo Portátil,Urgencias,Alto,GE,GE-761,SN735900,2012,12,2024,192826799,Operativo,Urgencias,4
+BIO-0084,Ecógrafo Fijo,Radiología,Medio,Philips,PHI-342,SN429517,2022,15,2037,449146314,Operativo,Radiología,6
+BIO-0085,Ecógrafo Fijo,Radiología,Medio,Philips,PHI-706,SN767485,2018,15,2033,468279084,Operativo,Radiología,6
+BIO-0086,Ecógrafo Fijo,Radiología,Medio,Philips,PHI-621,SN564732,2017,15,2032,477017990,Operativo,Radiología,6
+BIO-0087,Ecógrafo Fijo,Radiología,Medio,Philips,PHI-194,SN915619,2014,15,2029,477626995,Operativo,Radiología,6
+BIO-0088,Electrocardiograma 12 Derivaciones,Cardiología,Medio,Welch Allyn,WEL-118,SN746026,2021,15,2036,31846134,Operativo,Cardiología,6
+BIO-0089,Electrocardiograma 12 Derivaciones,Cardiología,Medio,Welch Allyn,WEL-624,SN988125,2014,15,2029,31954271,En mantenimiento,Cardiología,6
+BIO-0090,Electrocardiograma 12 Derivaciones,Cardiología,Medio,Welch Allyn,WEL-131,SN200670,2019,15,2034,34089623,En mantenimiento,Cardiología,6
+BIO-0091,Electrocardiograma 12 Derivaciones,Cardiología,Medio,Welch Allyn,WEL-429,SN165269,2017,15,2032,28935729,Operativo,Cardiología,6
+BIO-0092,Holter,Cardiología,Medio,Spacelabs,SPA-680,SN601128,2013,15,2028,43235052,Operativo,Cardiología,6
+BIO-0093,Holter,Cardiología,Medio,Spacelabs,SPA-137,SN561125,2013,15,2028,44091948,Operativo,Cardiología,6
+BIO-0094,Holter,Cardiología,Medio,Spacelabs,SPA-751,SN749592,2018,15,2033,44827360,Operativo,Cardiología,6
+BIO-0095,Holter,Cardiología,Medio,Spacelabs,SPA-967,SN399676,2015,15,2030,43159706,Operativo,Cardiología,6
+BIO-0096,Holter,Cardiología,Medio,Spacelabs,SPA-883,SN655020,2013,15,2028,41028631,Operativo,Cardiología,6
+BIO-0097,Holter,Cardiología,Medio,Spacelabs,SPA-430,SN236058,2019,15,2034,40913203,Operativo,Cardiología,6
+BIO-0098,Holter,Cardiología,Medio,Spacelabs,SPA-306,SN872197,2022,15,2037,44528699,Operativo,Cardiología,6
+BIO-0099,Incubadora Neonatal,Neonatología,Crítico,Draeger,DRA-873,SN780402,2012,10,2022,170810137,Operativo,Neonatología,3
+BIO-0100,Incubadora Neonatal,Neonatología,Crítico,Draeger,DRA-462,SN118861,2019,10,2029,173146831,Operativo,Neonatología,3
+BIO-0101,Incubadora Neonatal,Neonatología,Crítico,Draeger,DRA-975,SN285215,2012,10,2022,170042577,Operativo,Neonatología,3
+BIO-0102,Cuna de Calor Radiante,Neonatología,Crítico,Natus,NAT-890,SN665006,2019,10,2029,98348616,Operativo,Neonatología,3
+BIO-0103,Cuna de Calor Radiante,Neonatología,Crítico,Natus,NAT-381,SN776474,2020,10,2030,104155121,Operativo,Neonatología,3
+BIO-0104,Cuna de Calor Radiante,Neonatología,Crítico,Natus,NAT-884,SN169734,2014,10,2024,96088148,Operativo,Neonatología,3
+BIO-0105,Cuna de Calor Radiante,Neonatología,Crítico,Natus,NAT-375,SN412777,2013,10,2023,99521030,Operativo,Neonatología,3
+BIO-0106,Cuna de Calor Radiante,Neonatología,Crítico,Natus,NAT-810,SN550098,2014,10,2024,103291934,Operativo,Neonatología,3
+BIO-0107,Fototerapia LED,Neonatología,Medio,Natus,NAT-704,SN463508,2019,15,2034,20168601,Operativo,Neonatología,6
+BIO-0108,Fototerapia LED,Neonatología,Medio,Natus,NAT-722,SN836773,2019,15,2034,18343456,Operativo,Neonatología,6
+BIO-0109,Fototerapia LED,Neonatología,Medio,Natus,NAT-370,SN592197,2016,15,2031,18067859,Operativo,Neonatología,6
+BIO-0110,Fototerapia LED,Neonatología,Medio,Natus,NAT-197,SN285156,2012,15,2027,21277668,Operativo,Neonatología,6
+BIO-0111,Fototerapia LED,Neonatología,Medio,Natus,NAT-636,SN630137,2018,15,2033,19050173,Operativo,Neonatología,6
+BIO-0112,Fototerapia LED,Neonatología,Medio,Natus,NAT-905,SN913909,2012,15,2027,20696247,Operativo,Neonatología,6
+BIO-0113,Oxímetro de Pulso,Hospitalización,Alto,Nonin,NON-758,SN801587,2015,12,2027,7756606,Operativo,Piso 5 - Cama 3,4
+BIO-0114,Oxímetro de Pulso,Hospitalización,Alto,Nonin,NON-517,SN370287,2017,12,2029,7694628,Operativo,Piso 4 - Cama 19,4
+BIO-0115,Oxímetro de Pulso,Hospitalización,Alto,Nonin,NON-602,SN588618,2020,12,2032,8186686,Operativo,Piso 3 - Cama 7,4
+BIO-0116,Oxímetro de Pulso,Hospitalización,Alto,Nonin,NON-541,SN957466,2017,12,2029,8730653,Operativo,Piso 2 - Cama 8,4
+BIO-0117,Capnógrafo,UCI Adultos,Alto,Medtronic,MED-882,SN812338,2020,12,2032,60158410,Operativo,Piso 5 - Cama 9,4
+BIO-0118,Capnógrafo,UCI Adultos,Alto,Medtronic,MED-357,SN998334,2012,12,2024,53519671,Operativo,Piso 3 - Cama 4,4
+BIO-0119,Capnógrafo,UCI Adultos,Alto,Medtronic,MED-225,SN698184,2022,12,2034,59751619,Operativo,Piso 4 - Cama 2,4
+BIO-0120,Capnógrafo,UCI Adultos,Alto,Medtronic,MED-170,SN460251,2022,12,2034,52913596,Operativo,Piso 2 - Cama 4,4
+BIO-0121,Autoclave de Vapor,CEYE,Alto,Tuttnauer,TUT-631,SN536194,2014,12,2026,88330688,Operativo,CEYE,4
+BIO-0122,Autoclave de Vapor,CEYE,Alto,Tuttnauer,TUT-828,SN266448,2014,12,2026,91217561,Operativo,CEYE,4
+BIO-0123,Autoclave de Vapor,CEYE,Alto,Tuttnauer,TUT-839,SN472401,2014,12,2026,91986364,Operativo,CEYE,4
+BIO-0124,Autoclave de Vapor,CEYE,Alto,Tuttnauer,TUT-862,SN724028,2018,12,2030,92536423,Operativo,CEYE,4
+BIO-0125,Autoclave de Vapor Grande,CEYE,Alto,Getinge,GET-730,SN528595,2016,12,2028,173555082,Operativo,CEYE,4
+BIO-0126,Autoclave de Vapor Grande,CEYE,Alto,Getinge,GET-320,SN105911,2012,12,2024,176450872,Operativo,CEYE,4
+BIO-0127,Autoclave de Vapor Grande,CEYE,Alto,Getinge,GET-170,SN347661,2013,12,2025,168608928,Operativo,CEYE,4
+BIO-0128,Autoclave de Vapor Grande,CEYE,Alto,Getinge,GET-296,SN116476,2020,12,2032,166830459,Operativo,CEYE,4
+BIO-0129,Autoclave de Vapor Grande,CEYE,Alto,Getinge,GET-588,SN783733,2015,12,2027,163685966,Operativo,CEYE,4
+BIO-0130,Autoclave de Vapor Grande,CEYE,Alto,Getinge,GET-189,SN704701,2021,12,2033,170521834,Operativo,CEYE,4
+BIO-0131,Lavadora Desinfectadora,CEYE,Alto,Miele,MIE-597,SN870212,2019,12,2031,127275868,Operativo,CEYE,4
+BIO-0132,Lavadora Desinfectadora,CEYE,Alto,Miele,MIE-992,SN397000,2020,12,2032,109441006,Operativo,CEYE,4
+BIO-0133,Lavadora Desinfectadora,CEYE,Alto,Miele,MIE-689,SN551829,2015,12,2027,110258190,Operativo,CEYE,4
+BIO-0134,Lavadora Desinfectadora,CEYE,Alto,Miele,MIE-386,SN760911,2017,12,2029,123811386,Operativo,CEYE,4
+BIO-0135,Selladora de Bolsas,CEYE,Bajo,Hawo,HAW-222,SN113431,2020,20,2040,15099781,Operativo,CEYE,12
+BIO-0136,Selladora de Bolsas,CEYE,Bajo,Hawo,HAW-966,SN471798,2015,20,2035,15121793,Operativo,CEYE,12
+BIO-0137,Selladora de Bolsas,CEYE,Bajo,Hawo,HAW-180,SN453060,2012,20,2032,15284014,Operativo,CEYE,12
+BIO-0138,Selladora de Bolsas,CEYE,Bajo,Hawo,HAW-605,SN386892,2020,20,2040,14731780,Operativo,CEYE,12
+BIO-0139,Selladora de Bolsas,CEYE,Bajo,Hawo,HAW-943,SN491183,2018,20,2038,14171855,Operativo,CEYE,12
+BIO-0140,Selladora de Bolsas,CEYE,Bajo,Hawo,HAW-799,SN991280,2019,20,2039,13531181,Operativo,CEYE,12
+BIO-0141,Selladora de Bolsas,CEYE,Bajo,Hawo,HAW-314,SN235198,2014,20,2034,13948062,Operativo,CEYE,12
+BIO-0142,Centrifuga de Laboratorio,Laboratorio,Bajo,Eppendorf,EPP-170,SN433843,2020,20,2040,24771879,Operativo,Laboratorio,12
+BIO-0143,Centrifuga de Laboratorio,Laboratorio,Bajo,Eppendorf,EPP-676,SN915061,2022,20,2042,25819253,Operativo,Laboratorio,12
+BIO-0144,Centrifuga de Laboratorio,Laboratorio,Bajo,Eppendorf,EPP-950,SN534831,2022,20,2042,26018232,Operativo,Laboratorio,12
+BIO-0145,Analizador de Gases ABG,UCI Adultos,Alto,Abbott,ABB-360,SN251960,2017,12,2029,129538004,Operativo,Piso 4 - Cama 17,4
+BIO-0146,Analizador de Gases ABG,UCI Adultos,Alto,Abbott,ABB-399,SN873420,2017,12,2029,148271262,Operativo,Piso 1 - Cama 15,4
+BIO-0147,Analizador de Gases ABG,UCI Adultos,Alto,Abbott,ABB-870,SN788211,2021,12,2033,136971992,Operativo,Piso 4 - Cama 11,4
+BIO-0148,Analizador de Gases ABG,UCI Adultos,Alto,Abbott,ABB-209,SN566039,2021,12,2033,146997448,Operativo,Piso 5 - Cama 3,4
+BIO-0149,Analizador Hematológico,Laboratorio,Medio,Sysmex,SYS-951,SN573910,2015,15,2030,183260637,Operativo,Laboratorio,6
+BIO-0150,Analizador Hematológico,Laboratorio,Medio,Sysmex,SYS-142,SN468181,2012,15,2027,185202323,Operativo,Laboratorio,6
+BIO-0151,Analizador Hematológico,Laboratorio,Medio,Sysmex,SYS-265,SN261029,2013,15,2028,163781334,Operativo,Laboratorio,6
+BIO-0152,Analizador Hematológico,Laboratorio,Medio,Sysmex,SYS-227,SN896951,2018,15,2033,193619651,Operativo,Laboratorio,6
+BIO-0153,Analizador Hematológico,Laboratorio,Medio,Sysmex,SYS-484,SN931439,2017,15,2032,168004960,Operativo,Laboratorio,6
+BIO-0154,Analizador Bioquímico,Laboratorio,Medio,Roche,ROC-706,SN204118,2013,15,2028,375443903,Operativo,Laboratorio,6
+BIO-0155,Analizador Bioquímico,Laboratorio,Medio,Roche,ROC-299,SN751324,2012,15,2027,376027487,Operativo,Laboratorio,6
+BIO-0156,Analizador Bioquímico,Laboratorio,Medio,Roche,ROC-708,SN493062,2015,15,2030,347308590,Operativo,Laboratorio,6
+BIO-0157,Microscopio Óptico,Laboratorio,Bajo,Leica,LEI-830,SN164119,2017,20,2037,28445236,Dado de baja,Laboratorio,12
+BIO-0158,Microscopio Óptico,Laboratorio,Bajo,Leica,LEI-553,SN979625,2016,20,2036,30304594,Operativo,Laboratorio,12
+BIO-0159,Microscopio Óptico,Laboratorio,Bajo,Leica,LEI-204,SN714050,2020,20,2040,27777142,Operativo,Laboratorio,12
+BIO-0160,Microscopio Óptico,Laboratorio,Bajo,Leica,LEI-526,SN288195,2014,20,2034,28297499,Operativo,Laboratorio,12
+BIO-0161,Microscopio Óptico,Laboratorio,Bajo,Leica,LEI-211,SN101063,2015,20,2035,26196952,Operativo,Laboratorio,12
+BIO-0162,Cama Eléctrica UCI,UCI Adultos,Medio,Hill-Rom,HIL-180,SN930805,2017,15,2032,32792806,Operativo,Piso 4 - Cama 2,6
+BIO-0163,Cama Eléctrica UCI,UCI Adultos,Medio,Hill-Rom,HIL-328,SN969304,2019,15,2034,35865446,Operativo,Piso 5 - Cama 18,6
+BIO-0164,Cama Eléctrica UCI,UCI Adultos,Medio,Hill-Rom,HIL-402,SN445319,2022,15,2037,34153042,Operativo,Piso 1 - Cama 18,6
+BIO-0165,Cama Eléctrica UCI,UCI Adultos,Medio,Hill-Rom,HIL-243,SN817972,2012,15,2027,35155806,Operativo,Piso 2 - Cama 3,6
+BIO-0166,Cama Eléctrica UCI,UCI Adultos,Medio,Hill-Rom,HIL-480,SN663222,2018,15,2033,36235954,Operativo,Piso 2 - Cama 16,6
+BIO-0167,Cama Eléctrica Piso,Hospitalización,Bajo,Hill-Rom,HIL-776,SN812026,2013,20,2033,20139067,Operativo,Piso 3 - Cama 1,12
+BIO-0168,Cama Eléctrica Piso,Hospitalización,Bajo,Hill-Rom,HIL-778,SN933186,2013,20,2033,22970704,Operativo,Piso 1 - Cama 6,12
+BIO-0169,Cama Eléctrica Piso,Hospitalización,Bajo,Hill-Rom,HIL-496,SN672816,2013,20,2033,23846909,Operativo,Piso 3 - Cama 5,12
+BIO-0170,Cama Eléctrica Piso,Hospitalización,Bajo,Hill-Rom,HIL-748,SN648721,2014,20,2034,20774714,Operativo,Piso 2 - Cama 14,12
+BIO-0171,Cama Eléctrica Piso,Hospitalización,Bajo,Hill-Rom,HIL-947,SN655939,2022,20,2042,22060344,Operativo,Piso 1 - Cama 11,12
+BIO-0172,Cama Eléctrica Piso,Hospitalización,Bajo,Hill-Rom,HIL-194,SN594670,2015,20,2035,20287745,Operativo,Piso 5 - Cama 7,12
+BIO-0173,Lámpara Quirúrgica Cielítica,Quirófano,Alto,Trumpf,TRU-513,SN964150,2013,12,2025,112655141,Operativo,Quirófano,4
+BIO-0174,Lámpara Quirúrgica Cielítica,Quirófano,Alto,Trumpf,TRU-317,SN430908,2014,12,2026,102522948,Operativo,Quirófano,4
+BIO-0175,Lámpara Quirúrgica Cielítica,Quirófano,Alto,Trumpf,TRU-436,SN280324,2018,12,2030,107488363,Operativo,Quirófano,4
+BIO-0176,Lámpara Quirúrgica Cielítica,Quirófano,Alto,Trumpf,TRU-107,SN971234,2015,12,2027,109251378,Operativo,Quirófano,4
+BIO-0177,Lámpara Quirúrgica Cielítica,Quirófano,Alto,Trumpf,TRU-458,SN691373,2021,12,2033,106239037,Operativo,Quirófano,4
+BIO-0178,Mesa Quirúrgica,Quirófano,Alto,Maquet,MAQ-445,SN181306,2014,12,2026,192346797,Operativo,Quirófano,4
+BIO-0179,Mesa Quirúrgica,Quirófano,Alto,Maquet,MAQ-452,SN859121,2018,12,2030,198536387,Operativo,Quirófano,4
+BIO-0180,Mesa Quirúrgica,Quirófano,Alto,Maquet,MAQ-131,SN757826,2016,12,2028,181772918,Operativo,Quirófano,4
+BIO-0181,Mesa Quirúrgica,Quirófano,Alto,Maquet,MAQ-298,SN566101,2022,12,2034,183312785,Operativo,Quirófano,4
+BIO-0182,Mesa Quirúrgica,Quirófano,Alto,Maquet,MAQ-688,SN912943,2014,12,2026,217104954,Operativo,Quirófano,4
+BIO-0183,Mesa Quirúrgica,Quirófano,Alto,Maquet,MAQ-945,SN350380,2022,12,2034,206351645,Operativo,Quirófano,4
+BIO-0184,Mesa Quirúrgica,Quirófano,Alto,Maquet,MAQ-449,SN369304,2020,12,2032,199906999,Operativo,Quirófano,4
+BIO-0185,Torre de Laparoscopia,Quirófano,Alto,Storz,STO-941,SN564468,2015,12,2027,347808955,Dado de baja,Quirófano,4
+BIO-0186,Torre de Laparoscopia,Quirófano,Alto,Storz,STO-406,SN758432,2017,12,2029,291157197,Operativo,Quirófano,4
+BIO-0187,Torre de Laparoscopia,Quirófano,Alto,Storz,STO-377,SN450256,2018,12,2030,344083952,Operativo,Quirófano,4
+BIO-0188,Torre de Artroscopia,Quirófano,Alto,Arthrex,ART-703,SN442582,2021,12,2033,269447777,Operativo,Quirófano,4
+BIO-0189,Torre de Artroscopia,Quirófano,Alto,Arthrex,ART-734,SN721620,2013,12,2025,279352060,Operativo,Quirófano,4
+BIO-0190,Torre de Artroscopia,Quirófano,Alto,Arthrex,ART-786,SN503328,2021,12,2033,281624550,Operativo,Quirófano,4
+BIO-0191,Torre de Artroscopia,Quirófano,Alto,Arthrex,ART-307,SN292931,2013,12,2025,286576052,Operativo,Quirófano,4
+BIO-0192,Negatoscopio LED,Radiología,Bajo,Wolf,WOL-261,SN728260,2013,20,2033,8730592,Operativo,Radiología,12
+BIO-0193,Negatoscopio LED,Radiología,Bajo,Wolf,WOL-925,SN596927,2020,20,2040,7406677,Dado de baja,Radiología,12
+BIO-0194,Negatoscopio LED,Radiología,Bajo,Wolf,WOL-633,SN830129,2018,20,2038,7904093,Operativo,Radiología,12
+BIO-0195,Colposcopio,Ginecología,Medio,Leisegang,LEI-737,SN679170,2015,15,2030,42805819,Operativo,Ginecología,6
+BIO-0196,Colposcopio,Ginecología,Medio,Leisegang,LEI-791,SN567841,2021,15,2036,45508932,Operativo,Ginecología,6
+BIO-0197,Colposcopio,Ginecología,Medio,Leisegang,LEI-781,SN736274,2013,15,2028,47129665,Operativo,Ginecología,6
+BIO-0198,Colposcopio,Ginecología,Medio,Leisegang,LEI-237,SN445097,2020,15,2035,45415471,Operativo,Ginecología,6
+BIO-0199,Colposcopio,Ginecología,Medio,Leisegang,LEI-252,SN107535,2015,15,2030,46534590,Operativo,Ginecología,6
+BIO-0200,Colposcopio,Ginecología,Medio,Leisegang,LEI-238,SN760733,2012,15,2027,41828187,Operativo,Ginecología,6
+BIO-0201,Lámpara de Fotocurado,Odontología,Bajo,3M,3M-392,SN388056,2014,20,2034,4568354,Operativo,Odontología,12
+BIO-0202,Lámpara de Fotocurado,Odontología,Bajo,3M,3M-192,SN557078,2017,20,2037,4785208,Operativo,Odontología,12
+BIO-0203,Lámpara de Fotocurado,Odontología,Bajo,3M,3M-664,SN706033,2012,20,2032,4273665,Operativo,Odontología,12
+BIO-0204,Unidad Dental,Odontología,Medio,Kavo,KAV-910,SN704268,2013,15,2028,92678412,Operativo,Odontología,6
+BIO-0205,Unidad Dental,Odontología,Medio,Kavo,KAV-262,SN909808,2020,15,2035,88587671,Operativo,Odontología,6
+BIO-0206,Unidad Dental,Odontología,Medio,Kavo,KAV-848,SN354601,2020,15,2035,92539658,Operativo,Odontología,6
+BIO-0207,Compresor Dental,Odontología,Bajo,Durr,DUR-775,SN870988,2018,20,2038,17157970,Operativo,Odontología,12
+BIO-0208,Compresor Dental,Odontología,Bajo,Durr,DUR-462,SN769282,2017,20,2037,19076331,Operativo,Odontología,12
+BIO-0209,Compresor Dental,Odontología,Bajo,Durr,DUR-290,SN220643,2022,20,2042,16304112,Operativo,Odontología,12
+BIO-0210,Compresor Dental,Odontología,Bajo,Durr,DUR-919,SN979234,2021,20,2041,18347004,En mantenimiento,Odontología,12
+BIO-0211,Compresor Dental,Odontología,Bajo,Durr,DUR-308,SN279635,2021,20,2041,16661977,Operativo,Odontología,12
+BIO-0212,Electrocardiógrafo Fetal,Ginecología,Alto,Huntleigh,HUN-814,SN591748,2020,12,2032,37709881,Operativo,Ginecología,4
+BIO-0213,Electrocardiógrafo Fetal,Ginecología,Alto,Huntleigh,HUN-636,SN782754,2020,12,2032,40348355,Operativo,Ginecología,4
+BIO-0214,Electrocardiógrafo Fetal,Ginecología,Alto,Huntleigh,HUN-710,SN616896,2021,12,2033,35144068,Operativo,Ginecología,4
+BIO-0215,Electrocardiógrafo Fetal,Ginecología,Alto,Huntleigh,HUN-232,SN712221,2018,12,2030,37367408,Operativo,Ginecología,4
+BIO-0216,Electrocardiógrafo Fetal,Ginecología,Alto,Huntleigh,HUN-453,SN563258,2013,12,2025,38808004,Operativo,Ginecología,4
+BIO-0217,Electrocardiógrafo Fetal,Ginecología,Alto,Huntleigh,HUN-820,SN157110,2019,12,2031,37798008,Operativo,Ginecología,4
+BIO-0218,Doppler Fetal,Ginecología,Medio,Nicolet,NIC-783,SN293030,2015,15,2030,12253892,Operativo,Ginecología,6
+BIO-0219,Doppler Fetal,Ginecología,Medio,Nicolet,NIC-597,SN579590,2015,15,2030,12532562,Operativo,Ginecología,6
+BIO-0220,Doppler Fetal,Ginecología,Medio,Nicolet,NIC-227,SN270492,2015,15,2030,12360983,Operativo,Ginecología,6
+BIO-0221,Doppler Fetal,Ginecología,Medio,Nicolet,NIC-128,SN153944,2015,15,2030,11465104,Operativo,Ginecología,6
+BIO-0222,Doppler Fetal,Ginecología,Medio,Nicolet,NIC-845,SN952497,2020,15,2035,12469867,Operativo,Ginecología,6
+BIO-0223,Doppler Fetal,Ginecología,Medio,Nicolet,NIC-926,SN510151,2012,15,2027,11672141,Operativo,Ginecología,6
+BIO-0224,Doppler Fetal,Ginecología,Medio,Nicolet,NIC-284,SN470081,2018,15,2033,11169062,Operativo,Ginecología,6
+BIO-0225,Lámpara de Examen,Consulta Externa,Bajo,Medela,MED-671,SN933915,2013,20,2033,4783788,Operativo,Consulta Externa,12
+BIO-0226,Lámpara de Examen,Consulta Externa,Bajo,Medela,MED-788,SN167766,2017,20,2037,4965401,En mantenimiento,Consulta Externa,12
+BIO-0227,Lámpara de Examen,Consulta Externa,Bajo,Medela,MED-370,SN152002,2016,20,2036,4921781,Operativo,Consulta Externa,12
+BIO-0228,Tensiómetro Digital,Consulta Externa,Bajo,Omron,OMR-168,SN158636,2016,20,2036,2964660,Operativo,Consulta Externa,12
+BIO-0229,Tensiómetro Digital,Consulta Externa,Bajo,Omron,OMR-469,SN793818,2016,20,2036,3406859,Operativo,Consulta Externa,12
+BIO-0230,Tensiómetro Digital,Consulta Externa,Bajo,Omron,OMR-131,SN352256,2013,20,2033,3276561,Operativo,Consulta Externa,12
+BIO-0231,Glucómetro Hospitalario,Hospitalización,Medio,Roche,ROC-760,SN283550,2019,15,2034,8115500,Operativo,Piso 2 - Cama 17,6
+BIO-0232,Glucómetro Hospitalario,Hospitalización,Medio,Roche,ROC-796,SN183521,2016,15,2031,9070373,Operativo,Piso 3 - Cama 16,6
+BIO-0233,Glucómetro Hospitalario,Hospitalización,Medio,Roche,ROC-448,SN740907,2017,15,2032,9586901,Operativo,Piso 2 - Cama 12,6
+BIO-0234,Glucómetro Hospitalario,Hospitalización,Medio,Roche,ROC-660,SN450842,2019,15,2034,9307789,Operativo,Piso 5 - Cama 2,6
+BIO-0235,Coagulómetro,Laboratorio,Medio,Stago,STA-432,SN514114,2018,15,2033,89968017,Operativo,Laboratorio,6
+BIO-0236,Coagulómetro,Laboratorio,Medio,Stago,STA-358,SN338444,2018,15,2033,94095455,Operativo,Laboratorio,6
+BIO-0237,Coagulómetro,Laboratorio,Medio,Stago,STA-273,SN162737,2015,15,2030,104130762,Operativo,Laboratorio,6
+BIO-0238,Coagulómetro,Laboratorio,Medio,Stago,STA-978,SN713632,2016,15,2031,89376293,En mantenimiento,Laboratorio,6
+BIO-0239,Coagulómetro,Laboratorio,Medio,Stago,STA-475,SN345538,2014,15,2029,92982845,Operativo,Laboratorio,6
+BIO-0240,Coagulómetro,Laboratorio,Medio,Stago,STA-660,SN545287,2017,15,2032,90880288,Operativo,Laboratorio,6
+BIO-0241,Analizador de Orina,Laboratorio,Bajo,Siemens,SIE-586,SN338667,2022,20,2042,45580498,En mantenimiento,Laboratorio,12
+BIO-0242,Analizador de Orina,Laboratorio,Bajo,Siemens,SIE-424,SN156810,2013,20,2033,45601872,Operativo,Laboratorio,12
+BIO-0243,Analizador de Orina,Laboratorio,Bajo,Siemens,SIE-673,SN125988,2014,20,2034,38173774,Operativo,Laboratorio,12
+BIO-0244,Analizador de Orina,Laboratorio,Bajo,Siemens,SIE-549,SN622593,2017,20,2037,39189584,Dado de baja,Laboratorio,12
+BIO-0245,Analizador de Orina,Laboratorio,Bajo,Siemens,SIE-715,SN464806,2018,20,2038,39579189,Operativo,Laboratorio,12
+BIO-0246,Espirometro,Neumología,Medio,CareFusion,CAR-502,SN534171,2013,15,2028,28198292,Operativo,Neumología,6
+BIO-0247,Espirometro,Neumología,Medio,CareFusion,CAR-614,SN933976,2020,15,2035,29821211,Operativo,Neumología,6
+BIO-0248,Espirometro,Neumología,Medio,CareFusion,CAR-630,SN373177,2012,15,2027,30788992,Operativo,Neumología,6
+BIO-0249,Espirometro,Neumología,Medio,CareFusion,CAR-145,SN113557,2019,15,2034,26177433,Dado de baja,Neumología,6
+BIO-0250,Espirometro,Neumología,Medio,CareFusion,CAR-737,SN557174,2019,15,2034,25803450,En mantenimiento,Neumología,6
+BIO-0251,CPAP,Neumología,Alto,Resmed,RES-557,SN475806,2015,12,2027,39138592,Operativo,Neumología,4
+BIO-0252,CPAP,Neumología,Alto,Resmed,RES-115,SN462397,2019,12,2031,40585630,Operativo,Neumología,4
+BIO-0253,CPAP,Neumología,Alto,Resmed,RES-908,SN476531,2012,12,2024,40539160,Operativo,Neumología,4
+BIO-0254,CPAP,Neumología,Alto,Resmed,RES-823,SN497636,2021,12,2033,39827077,Operativo,Neumología,4
+BIO-0255,BiPAP,Neumología,Alto,Resmed,RES-285,SN661665,2013,12,2025,54693020,Operativo,Neumología,4
+BIO-0256,BiPAP,Neumología,Alto,Resmed,RES-230,SN714955,2017,12,2029,57133085,Operativo,Neumología,4
+BIO-0257,BiPAP,Neumología,Alto,Resmed,RES-767,SN523435,2012,12,2024,52563488,Operativo,Neumología,4
+BIO-0258,BiPAP,Neumología,Alto,Resmed,RES-770,SN247330,2017,12,2029,53129033,Operativo,Neumología,4
+BIO-0259,BiPAP,Neumología,Alto,Resmed,RES-939,SN853130,2013,12,2025,55520097,Operativo,Neumología,4
+BIO-0260,Nebulizador Ultrasónico,Urgencias,Medio,Pari,PAR-368,SN852858,2018,15,2033,6120393,Operativo,Urgencias,6
+BIO-0261,Nebulizador Ultrasónico,Urgencias,Medio,Pari,PAR-152,SN420522,2012,15,2027,6954297,Operativo,Urgencias,6
+BIO-0262,Nebulizador Ultrasónico,Urgencias,Medio,Pari,PAR-585,SN794062,2019,15,2034,7078042,Operativo,Urgencias,6
+BIO-0263,Nebulizador Ultrasónico,Urgencias,Medio,Pari,PAR-916,SN492257,2014,15,2029,6919602,Operativo,Urgencias,6
+BIO-0264,Nebulizador Ultrasónico,Urgencias,Medio,Pari,PAR-607,SN465827,2012,15,2027,6037947,Operativo,Urgencias,6
+BIO-0265,Nebulizador Ultrasónico,Urgencias,Medio,Pari,PAR-198,SN370436,2021,15,2036,6801689,Operativo,Urgencias,6
+BIO-0266,Nebulizador Ultrasónico,Urgencias,Medio,Pari,PAR-665,SN411176,2019,15,2034,6701408,Operativo,Urgencias,6
+BIO-0267,Carro de Paro,Urgencias,Crítico,Armstrong,ARM-612,SN587467,2013,10,2023,17894415,Operativo,Urgencias,3
+BIO-0268,Carro de Paro,Urgencias,Crítico,Armstrong,ARM-262,SN573268,2020,10,2030,16712547,Operativo,Urgencias,3
+BIO-0269,Carro de Paro,Urgencias,Crítico,Armstrong,ARM-427,SN654035,2013,10,2023,18994056,Operativo,Urgencias,3
+BIO-0270,Carro de Paro,Urgencias,Crítico,Armstrong,ARM-246,SN728815,2013,10,2023,19451874,Operativo,Urgencias,3
+BIO-0271,Laringoscopio Video,Urgencias,Crítico,Verathon,VER-661,SN960637,2019,10,2029,65818875,Operativo,Urgencias,3
+BIO-0272,Laringoscopio Video,Urgencias,Crítico,Verathon,VER-761,SN327565,2016,10,2026,71171969,En mantenimiento,Urgencias,3
+BIO-0273,Laringoscopio Video,Urgencias,Crítico,Verathon,VER-458,SN815387,2015,10,2025,61820035,Operativo,Urgencias,3
+BIO-0274,Laringoscopio Video,Urgencias,Crítico,Verathon,VER-727,SN120515,2016,10,2026,69798575,Operativo,Urgencias,3
+BIO-0275,Laringoscopio Video,Urgencias,Crítico,Verathon,VER-914,SN751342,2019,10,2029,66937436,Operativo,Urgencias,3
+BIO-0276,Laringoscopio Video,Urgencias,Crítico,Verathon,VER-709,SN168120,2022,10,2032,63277744,Operativo,Urgencias,3
+BIO-0277,Aspirador Quirúrgico,Quirófano,Alto,Medela,MED-199,SN184412,2013,12,2025,21548890,Dado de baja,Quirófano,4
+BIO-0278,Aspirador Quirúrgico,Quirófano,Alto,Medela,MED-947,SN968347,2020,12,2032,21966280,Operativo,Quirófano,4
+BIO-0279,Aspirador Quirúrgico,Quirófano,Alto,Medela,MED-831,SN719485,2017,12,2029,20957946,Operativo,Quirófano,4
+BIO-0280,Aspirador Quirúrgico,Quirófano,Alto,Medela,MED-550,SN207087,2019,12,2031,22149879,Operativo,Quirófano,4
+BIO-0281,Aspirador Quirúrgico,Quirófano,Alto,Medela,MED-653,SN296828,2017,12,2029,20423374,Operativo,Quirófano,4
+BIO-0282,Aspirador Quirúrgico,Quirófano,Alto,Medela,MED-258,SN782311,2020,12,2032,21065796,Operativo,Quirófano,4
+BIO-0283,Aspirador Quirúrgico,Quirófano,Alto,Medela,MED-544,SN344496,2013,12,2025,22508064,Operativo,Quirófano,4
+BIO-0284,Bisturí Ultrasónico,Quirófano,Alto,Ethicon,ETH-173,SN371999,2018,12,2030,103664155,Operativo,Quirófano,4
+BIO-0285,Bisturí Ultrasónico,Quirófano,Alto,Ethicon,ETH-627,SN850909,2015,12,2027,101138938,Operativo,Quirófano,4
+BIO-0286,Bisturí Ultrasónico,Quirófano,Alto,Ethicon,ETH-276,SN941695,2017,12,2029,92704484,Operativo,Quirófano,4
+BIO-0287,Polígrafo,Neurofisiología,Medio,Nihon Kohden,NIH-803,SN575244,2019,15,2034,169103970,Operativo,Neurofisiología,6
+BIO-0288,Polígrafo,Neurofisiología,Medio,Nihon Kohden,NIH-191,SN758012,2022,15,2037,188377535,Operativo,Neurofisiología,6
+BIO-0289,Polígrafo,Neurofisiología,Medio,Nihon Kohden,NIH-169,SN989643,2020,15,2035,165643583,Dado de baja,Neurofisiología,6
+BIO-0290,Polígrafo,Neurofisiología,Medio,Nihon Kohden,NIH-865,SN603597,2016,15,2031,188242804,Operativo,Neurofisiología,6
+BIO-0291,Polígrafo,Neurofisiología,Medio,Nihon Kohden,NIH-991,SN293821,2015,15,2030,184389294,Operativo,Neurofisiología,6
+BIO-0292,EEG,Neurofisiología,Medio,Compumedics,COM-693,SN658728,2022,15,2037,150420448,Operativo,Neurofisiología,6
+BIO-0293,EEG,Neurofisiología,Medio,Compumedics,COM-214,SN316381,2012,15,2027,147247312,Operativo,Neurofisiología,6
+BIO-0294,EEG,Neurofisiología,Medio,Compumedics,COM-247,SN282257,2013,15,2028,161898964,Operativo,Neurofisiología,6
+BIO-0295,EEG,Neurofisiología,Medio,Compumedics,COM-267,SN663039,2021,15,2036,152555281,Operativo,Neurofisiología,6
+BIO-0296,EMG,Rehabilitación,Medio,Natus,NAT-289,SN960568,2019,15,2034,87678717,Operativo,Rehabilitación,6
+BIO-0297,EMG,Rehabilitación,Medio,Natus,NAT-184,SN754235,2018,15,2033,91072966,Operativo,Rehabilitación,6
+BIO-0298,EMG,Rehabilitación,Medio,Natus,NAT-114,SN705320,2016,15,2031,76642004,Operativo,Rehabilitación,6
+BIO-0299,EMG,Rehabilitación,Medio,Natus,NAT-904,SN364225,2013,15,2028,90762570,Operativo,Rehabilitación,6
+BIO-0300,EMG,Rehabilitación,Medio,Natus,NAT-705,SN968371,2013,15,2028,82290570,Operativo,Rehabilitación,6
+BIO-0301,EMG,Rehabilitación,Medio,Natus,NAT-497,SN734901,2015,15,2030,81052887,Operativo,Rehabilitación,6
+BIO-0302,EMG,Rehabilitación,Medio,Natus,NAT-320,SN294032,2021,15,2036,90336152,Operativo,Rehabilitación,6
+BIO-0303,Ultrasonido Terapéutico,Rehabilitación,Bajo,Chattanooga,CHA-667,SN642178,2014,20,2034,17468124,Operativo,Rehabilitación,12
+BIO-0304,Ultrasonido Terapéutico,Rehabilitación,Bajo,Chattanooga,CHA-556,SN510245,2018,20,2038,16586171,Operativo,Rehabilitación,12
+BIO-0305,Ultrasonido Terapéutico,Rehabilitación,Bajo,Chattanooga,CHA-692,SN273175,2019,20,2039,18204716,Operativo,Rehabilitación,12
+BIO-0306,Ultrasonido Terapéutico,Rehabilitación,Bajo,Chattanooga,CHA-223,SN443059,2012,20,2032,18868055,Operativo,Rehabilitación,12
+BIO-0307,Ultrasonido Terapéutico,Rehabilitación,Bajo,Chattanooga,CHA-373,SN547074,2012,20,2032,19739210,Operativo,Rehabilitación,12
+BIO-0308,Ultrasonido Terapéutico,Rehabilitación,Bajo,Chattanooga,CHA-925,SN339840,2013,20,2033,17221539,Operativo,Rehabilitación,12
+BIO-0309,Ultrasonido Terapéutico,Rehabilitación,Bajo,Chattanooga,CHA-199,SN627464,2019,20,2039,16359140,Operativo,Rehabilitación,12
+BIO-0310,Láser Terapéutico,Rehabilitación,Medio,BTL,BTL-426,SN668336,2015,15,2030,71379820,Operativo,Rehabilitación,6
+BIO-0311,Láser Terapéutico,Rehabilitación,Medio,BTL,BTL-665,SN458191,2013,15,2028,67872994,Operativo,Rehabilitación,6
+BIO-0312,Láser Terapéutico,Rehabilitación,Medio,BTL,BTL-312,SN123160,2020,15,2035,71057997,Operativo,Rehabilitación,6
+BIO-0313,Láser Terapéutico,Rehabilitación,Medio,BTL,BTL-181,SN380019,2014,15,2029,64982631,Operativo,Rehabilitación,6
+BIO-0314,Láser Terapéutico,Rehabilitación,Medio,BTL,BTL-324,SN545937,2015,15,2030,70695795,Operativo,Rehabilitación,6
+BIO-0315,Láser Terapéutico,Rehabilitación,Medio,BTL,BTL-239,SN113489,2015,15,2030,64576269,Operativo,Rehabilitación,6
+BIO-0316,Láser Terapéutico,Rehabilitación,Medio,BTL,BTL-508,SN728903,2016,15,2031,62109977,Operativo,Rehabilitación,6
+BIO-0317,Electroterapia TENS,Rehabilitación,Bajo,Compex,COM-464,SN210115,2022,20,2042,12943932,Operativo,Rehabilitación,12
+BIO-0318,Electroterapia TENS,Rehabilitación,Bajo,Compex,COM-437,SN724357,2021,20,2041,11697573,Operativo,Rehabilitación,12
+BIO-0319,Electroterapia TENS,Rehabilitación,Bajo,Compex,COM-364,SN187614,2012,20,2032,12697011,Operativo,Rehabilitación,12
+BIO-0320,Electroterapia TENS,Rehabilitación,Bajo,Compex,COM-747,SN947446,2013,20,2033,12985234,Operativo,Rehabilitación,12
+BIO-0321,Electroterapia TENS,Rehabilitación,Bajo,Compex,COM-611,SN983182,2019,20,2039,12495430,Operativo,Rehabilitación,12
+BIO-0322,Termómetro Infrarrojo,Consulta Externa,Bajo,Braun,BRA-457,SN767182,2014,20,2034,2646315,Operativo,Consulta Externa,12
+BIO-0323,Termómetro Infrarrojo,Consulta Externa,Bajo,Braun,BRA-285,SN689480,2014,20,2034,2645132,Operativo,Consulta Externa,12
+BIO-0324,Termómetro Infrarrojo,Consulta Externa,Bajo,Braun,BRA-415,SN291886,2012,20,2032,2566712,Operativo,Consulta Externa,12
+BIO-0325,Termómetro Infrarrojo,Consulta Externa,Bajo,Braun,BRA-309,SN681024,2020,20,2040,2668968,Operativo,Consulta Externa,12
+BIO-0326,Báscula Digital,Consulta Externa,Bajo,Seca,SEC-439,SN924577,2018,20,2038,4242021,En mantenimiento,Consulta Externa,12
+BIO-0327,Báscula Digital,Consulta Externa,Bajo,Seca,SEC-250,SN559297,2017,20,2037,4135223,Operativo,Consulta Externa,12
+BIO-0328,Báscula Digital,Consulta Externa,Bajo,Seca,SEC-372,SN654697,2013,20,2033,3800296,Operativo,Consulta Externa,12
+BIO-0329,Tallímetro Digital,Consulta Externa,Bajo,Seca,SEC-926,SN719040,2017,20,2037,3545297,Operativo,Consulta Externa,12
+BIO-0330,Tallímetro Digital,Consulta Externa,Bajo,Seca,SEC-734,SN653186,2022,20,2042,3395318,Operativo,Consulta Externa,12
+BIO-0331,Tallímetro Digital,Consulta Externa,Bajo,Seca,SEC-155,SN395453,2022,20,2042,3227415,Operativo,Consulta Externa,12
+BIO-0332,Tallímetro Digital,Consulta Externa,Bajo,Seca,SEC-114,SN606119,2014,20,2034,3785560,Operativo,Consulta Externa,12
+BIO-0333,Esterilizador Óxido de Etileno,CEYE,Alto,3M,3M-644,SN923285,2016,12,2028,275512332,Operativo,CEYE,4
+BIO-0334,Esterilizador Óxido de Etileno,CEYE,Alto,3M,3M-138,SN205369,2015,12,2027,263199149,En mantenimiento,CEYE,4
+BIO-0335,Esterilizador Óxido de Etileno,CEYE,Alto,3M,3M-646,SN509296,2018,12,2030,292177616,Operativo,CEYE,4
+BIO-0336,Cabina de Bioseguridad II,Laboratorio,Alto,Labconco,LAB-352,SN966828,2022,12,2034,112311363,Operativo,Laboratorio,4
+BIO-0337,Cabina de Bioseguridad II,Laboratorio,Alto,Labconco,LAB-903,SN385103,2019,12,2031,112080342,Operativo,Laboratorio,4
+BIO-0338,Cabina de Bioseguridad II,Laboratorio,Alto,Labconco,LAB-214,SN191503,2019,12,2031,113670466,Operativo,Laboratorio,4
+BIO-0339,Cabina de Bioseguridad II,Laboratorio,Alto,Labconco,LAB-525,SN308476,2019,12,2031,125308713,Operativo,Laboratorio,4
+BIO-0340,Congelador -80°C,Laboratorio,Alto,Thermo,THE-906,SN125886,2017,12,2029,139693189,Operativo,Laboratorio,4
+BIO-0341,Congelador -80°C,Laboratorio,Alto,Thermo,THE-976,SN371048,2020,12,2032,145844706,Operativo,Laboratorio,4
+BIO-0342,Congelador -80°C,Laboratorio,Alto,Thermo,THE-958,SN127104,2022,12,2034,147970962,Operativo,Laboratorio,4
+BIO-0343,Congelador -80°C,Laboratorio,Alto,Thermo,THE-722,SN958154,2012,12,2024,156916297,Operativo,Laboratorio,4
+BIO-0344,Congelador -80°C,Laboratorio,Alto,Thermo,THE-443,SN252772,2022,12,2034,142831943,Operativo,Laboratorio,4
+BIO-0345,Refrigerador Medicamentos,Farmacia,Alto,Helmer,HEL-367,SN542952,2015,12,2027,28558829,Operativo,Farmacia,4
+BIO-0346,Refrigerador Medicamentos,Farmacia,Alto,Helmer,HEL-679,SN812935,2012,12,2024,28902241,Operativo,Farmacia,4
+BIO-0347,Refrigerador Medicamentos,Farmacia,Alto,Helmer,HEL-585,SN534837,2017,12,2029,29139349,Operativo,Farmacia,4
+BIO-0348,Refrigerador Medicamentos,Farmacia,Alto,Helmer,HEL-788,SN281662,2019,12,2031,26428573,Operativo,Farmacia,4
+BIO-0349,Refrigerador Medicamentos,Farmacia,Alto,Helmer,HEL-125,SN718076,2013,12,2025,28384656,Operativo,Farmacia,4
+BIO-0350,Cámara de Flujo Laminar,Farmacia,Alto,Labconco,LAB-889,SN127357,2013,12,2025,99553588,Operativo,Farmacia,4
+BIO-0351,Cámara de Flujo Laminar,Farmacia,Alto,Labconco,LAB-671,SN334654,2021,12,2033,98082288,Operativo,Farmacia,4
+BIO-0352,Cámara de Flujo Laminar,Farmacia,Alto,Labconco,LAB-919,SN614443,2015,12,2027,102872319,Operativo,Farmacia,4
+BIO-0353,Cámara de Flujo Laminar,Farmacia,Alto,Labconco,LAB-772,SN572398,2018,12,2030,92231910,Operativo,Farmacia,4
+BIO-0354,Cámara de Flujo Laminar,Farmacia,Alto,Labconco,LAB-293,SN696057,2021,12,2033,100747148,Operativo,Farmacia,4
+BIO-0355,Cámara de Flujo Laminar,Farmacia,Alto,Labconco,LAB-613,SN569727,2016,12,2028,86246512,Operativo,Farmacia,4
+BIO-0356,Cámara de Flujo Laminar,Farmacia,Alto,Labconco,LAB-658,SN390745,2020,12,2032,92401400,Operativo,Farmacia,4
+BIO-0357,Balanza Analítica,Farmacia,Medio,Mettler,MET-361,SN216362,2016,15,2031,16719440,Operativo,Farmacia,6
+BIO-0358,Balanza Analítica,Farmacia,Medio,Mettler,MET-955,SN341736,2016,15,2031,16768568,Operativo,Farmacia,6
+BIO-0359,Balanza Analítica,Farmacia,Medio,Mettler,MET-286,SN610570,2015,15,2030,18264099,Operativo,Farmacia,6
+BIO-0360,Balanza Analítica,Farmacia,Medio,Mettler,MET-640,SN564688,2017,15,2032,16381344,Operativo,Farmacia,6
+BIO-0361,Balanza Analítica,Farmacia,Medio,Mettler,MET-255,SN165660,2019,15,2034,17444964,Operativo,Farmacia,6
+BIO-0362,Balanza Analítica,Farmacia,Medio,Mettler,MET-283,SN701610,2017,15,2032,16904772,Operativo,Farmacia,6
+BIO-0363,Balanza Analítica,Farmacia,Medio,Mettler,MET-336,SN921323,2021,15,2036,16929424,Operativo,Farmacia,6
+BIO-0364,Ventilador Pediátrico,UCI Pediátrica,Crítico,Draeger,DRA-635,SN893505,2021,10,2031,267843982,Operativo,Piso 3 - Cama 16,3
+BIO-0365,Ventilador Pediátrico,UCI Pediátrica,Crítico,Draeger,DRA-494,SN368712,2017,10,2027,316864161,Operativo,Piso 4 - Cama 4,3
+BIO-0366,Ventilador Pediátrico,UCI Pediátrica,Crítico,Draeger,DRA-727,SN215058,2021,10,2031,320413437,Operativo,Piso 1 - Cama 18,3
+BIO-0367,Monitor Pediátrico,UCI Pediátrica,Crítico,Philips,PHI-467,SN519952,2021,10,2031,44585719,Operativo,Piso 3 - Cama 6,3
+BIO-0368,Monitor Pediátrico,UCI Pediátrica,Crítico,Philips,PHI-642,SN560024,2015,10,2025,42276178,Operativo,Piso 1 - Cama 5,3
+BIO-0369,Monitor Pediátrico,UCI Pediátrica,Crítico,Philips,PHI-949,SN461237,2015,10,2025,48667601,Operativo,Piso 3 - Cama 5,3
+BIO-0370,Monitor Pediátrico,UCI Pediátrica,Crítico,Philips,PHI-196,SN361431,2012,10,2022,42341457,Operativo,Piso 3 - Cama 13,3
+BIO-0371,Bomba Pediátrica,UCI Pediátrica,Alto,BD,BD-623,SN397797,2016,12,2028,10191868,Operativo,Piso 1 - Cama 13,4
+BIO-0372,Bomba Pediátrica,UCI Pediátrica,Alto,BD,BD-492,SN723203,2017,12,2029,11028193,Operativo,Piso 3 - Cama 14,4
+BIO-0373,Bomba Pediátrica,UCI Pediátrica,Alto,BD,BD-374,SN691271,2020,12,2032,11529502,Operativo,Piso 4 - Cama 9,4
+BIO-0374,Bomba Pediátrica,UCI Pediátrica,Alto,BD,BD-768,SN300138,2019,12,2031,10004476,Operativo,Piso 5 - Cama 16,4
+BIO-0375,Bomba Pediátrica,UCI Pediátrica,Alto,BD,BD-756,SN399485,2021,12,2033,11476409,Operativo,Piso 5 - Cama 13,4
+BIO-0376,Máquina de Circulación Extracorpórea,Cirugía Cardiovascular,Crítico,Terumo,TER-110,SN157841,2017,10,2027,870733497,Operativo,Cirugía Cardiovascular,3
+BIO-0377,Máquina de Circulación Extracorpórea,Cirugía Cardiovascular,Crítico,Terumo,TER-296,SN402702,2017,10,2027,926937147,Operativo,Cirugía Cardiovascular,3
+BIO-0378,Máquina de Circulación Extracorpórea,Cirugía Cardiovascular,Crítico,Terumo,TER-985,SN960248,2014,10,2024,872642177,Operativo,Cirugía Cardiovascular,3
+BIO-0379,Máquina de Circulación Extracorpórea,Cirugía Cardiovascular,Crítico,Terumo,TER-691,SN221127,2022,10,2032,906789423,Operativo,Cirugía Cardiovascular,3
+BIO-0380,Monitor Hemodinámico Invasivo,Cirugía Cardiovascular,Crítico,Edwards,EDW-552,SN817173,2014,10,2024,185393091,Operativo,Cirugía Cardiovascular,3
+BIO-0381,Monitor Hemodinámico Invasivo,Cirugía Cardiovascular,Crítico,Edwards,EDW-863,SN535736,2013,10,2023,186841357,Operativo,Cirugía Cardiovascular,3
+BIO-0382,Monitor Hemodinámico Invasivo,Cirugía Cardiovascular,Crítico,Edwards,EDW-440,SN883116,2016,10,2026,194958879,Operativo,Cirugía Cardiovascular,3
+BIO-0383,Monitor Hemodinámico Invasivo,Cirugía Cardiovascular,Crítico,Edwards,EDW-604,SN140091,2019,10,2029,185386752,Operativo,Cirugía Cardiovascular,3
+BIO-0384,Monitor Hemodinámico Invasivo,Cirugía Cardiovascular,Crítico,Edwards,EDW-555,SN153163,2020,10,2030,180970678,Operativo,Cirugía Cardiovascular,3
+BIO-0385,Máquina de Hemodiálisis,Hemodiálisis,Crítico,Fresenius,FRE-358,SN911074,2022,10,2032,263366726,Operativo,Hemodiálisis,3
+BIO-0386,Máquina de Hemodiálisis,Hemodiálisis,Crítico,Fresenius,FRE-334,SN545371,2017,10,2027,272479322,Operativo,Hemodiálisis,3
+BIO-0387,Máquina de Hemodiálisis,Hemodiálisis,Crítico,Fresenius,FRE-808,SN113540,2014,10,2024,268953484,Operativo,Hemodiálisis,3
+BIO-0388,Máquina de Hemodiálisis,Hemodiálisis,Crítico,Fresenius,FRE-565,SN493046,2021,10,2031,260826751,Operativo,Hemodiálisis,3
+BIO-0389,Máquina de Hemodiálisis,Hemodiálisis,Crítico,Fresenius,FRE-540,SN234671,2021,10,2031,303742947,Operativo,Hemodiálisis,3
+BIO-0390,Máquina de Hemodiálisis,Hemodiálisis,Crítico,Fresenius,FRE-265,SN359183,2020,10,2030,306992142,Operativo,Hemodiálisis,3
+BIO-0391,Monitor de Diálisis,Hemodiálisis,Alto,Fresenius,FRE-738,SN806587,2017,12,2029,44784466,Operativo,Hemodiálisis,4
+BIO-0392,Monitor de Diálisis,Hemodiálisis,Alto,Fresenius,FRE-453,SN775377,2018,12,2030,48899542,Operativo,Hemodiálisis,4
+BIO-0393,Monitor de Diálisis,Hemodiálisis,Alto,Fresenius,FRE-855,SN714157,2018,12,2030,48719217,Operativo,Hemodiálisis,4
+BIO-0394,Monitor de Diálisis,Hemodiálisis,Alto,Fresenius,FRE-520,SN274234,2013,12,2025,48506465,Operativo,Hemodiálisis,4
+BIO-0395,Endoscopio Flexible,Endoscopia,Alto,Olympus,OLY-842,SN256427,2020,12,2032,207756353,Operativo,Endoscopia,4
+BIO-0396,Endoscopio Flexible,Endoscopia,Alto,Olympus,OLY-311,SN670101,2013,12,2025,224864445,Operativo,Endoscopia,4
+BIO-0397,Endoscopio Flexible,Endoscopia,Alto,Olympus,OLY-753,SN647212,2013,12,2025,220722707,Operativo,Endoscopia,4
+BIO-0398,Torre de Endoscopia,Endoscopia,Alto,Olympus,OLY-473,SN146740,2016,12,2028,409769419,Operativo,Endoscopia,4
+BIO-0399,Torre de Endoscopia,Endoscopia,Alto,Olympus,OLY-122,SN110386,2012,12,2024,384257243,Operativo,Endoscopia,4
+BIO-0400,Torre de Endoscopia,Endoscopia,Alto,Olympus,OLY-696,SN980256,2013,12,2025,374178275,Operativo,Endoscopia,4
+BIO-0401,Torre de Endoscopia,Endoscopia,Alto,Olympus,OLY-863,SN389597,2019,12,2031,389967819,Operativo,Endoscopia,4
+BIO-0402,Torre de Endoscopia,Endoscopia,Alto,Olympus,OLY-350,SN578200,2015,12,2027,342584612,Operativo,Endoscopia,4
+BIO-0403,Torre de Endoscopia,Endoscopia,Alto,Olympus,OLY-712,SN601638,2016,12,2028,349538666,Operativo,Endoscopia,4
+BIO-0404,Torre de Endoscopia,Endoscopia,Alto,Olympus,OLY-698,SN256184,2017,12,2029,358111672,Operativo,Endoscopia,4
+BIO-0405,Unidad de Quimioterapia,Oncología,Alto,Braun,BRA-365,SN207460,2020,12,2032,34025900,Operativo,Oncología,4
+BIO-0406,Unidad de Quimioterapia,Oncología,Alto,Braun,BRA-731,SN125962,2016,12,2028,36556468,Operativo,Oncología,4
+BIO-0407,Unidad de Quimioterapia,Oncología,Alto,Braun,BRA-388,SN571411,2022,12,2034,32139673,Operativo,Oncología,4
+BIO-0408,Unidad de Quimioterapia,Oncología,Alto,Braun,BRA-965,SN889022,2022,12,2034,35287731,Operativo,Oncología,4
+BIO-0409,Agitador de Plaquetas,Banco de Sangre,Alto,Helmer,HEL-234,SN642093,2015,12,2027,24024883,Operativo,Banco de Sangre,4
+BIO-0410,Agitador de Plaquetas,Banco de Sangre,Alto,Helmer,HEL-131,SN927803,2015,12,2027,23581844,Operativo,Banco de Sangre,4
+BIO-0411,Agitador de Plaquetas,Banco de Sangre,Alto,Helmer,HEL-468,SN966193,2021,12,2033,23572226,En mantenimiento,Banco de Sangre,4
+BIO-0412,Agitador de Plaquetas,Banco de Sangre,Alto,Helmer,HEL-857,SN458987,2015,12,2027,21529819,Operativo,Banco de Sangre,4
+BIO-0413,Agitador de Plaquetas,Banco de Sangre,Alto,Helmer,HEL-428,SN852082,2014,12,2026,22039225,Dado de baja,Banco de Sangre,4
+BIO-0414,Agitador de Plaquetas,Banco de Sangre,Alto,Helmer,HEL-613,SN716979,2019,12,2031,23032192,Operativo,Banco de Sangre,4
+BIO-0415,Irradiador de Sangre,Banco de Sangre,Alto,Best,BES-353,SN849507,2016,12,2028,180652847,Operativo,Banco de Sangre,4
+BIO-0416,Irradiador de Sangre,Banco de Sangre,Alto,Best,BES-164,SN846711,2015,12,2027,191045098,Operativo,Banco de Sangre,4
+BIO-0417,Irradiador de Sangre,Banco de Sangre,Alto,Best,BES-197,SN286212,2017,12,2029,187506813,Operativo,Banco de Sangre,4
+BIO-0418,Irradiador de Sangre,Banco de Sangre,Alto,Best,BES-773,SN701816,2020,12,2032,191857543,Operativo,Banco de Sangre,4
+BIO-0419,Irradiador de Sangre,Banco de Sangre,Alto,Best,BES-660,SN363276,2017,12,2029,180940270,Operativo,Banco de Sangre,4
+BIO-0420,Procesador de Tejidos,Patología,Medio,Leica,LEI-227,SN792276,2012,15,2027,153170726,Operativo,Patología,6
+BIO-0421,Procesador de Tejidos,Patología,Medio,Leica,LEI-311,SN981816,2013,15,2028,137852794,Operativo,Patología,6
+BIO-0422,Procesador de Tejidos,Patología,Medio,Leica,LEI-749,SN490631,2015,15,2030,154951996,Operativo,Patología,6
+BIO-0423,Procesador de Tejidos,Patología,Medio,Leica,LEI-662,SN836849,2015,15,2030,135676402,Operativo,Patología,6
+BIO-0424,Micrótomo,Patología,Medio,Leica,LEI-460,SN196734,2022,15,2037,56719092,Operativo,Patología,6
+BIO-0425,Micrótomo,Patología,Medio,Leica,LEI-488,SN703083,2015,15,2030,56584908,Operativo,Patología,6
+BIO-0426,Micrótomo,Patología,Medio,Leica,LEI-727,SN337316,2015,15,2030,60265215,Operativo,Patología,6
+BIO-0427,Micrótomo,Patología,Medio,Leica,LEI-920,SN507180,2012,15,2027,56816324,Operativo,Patología,6
+BIO-0428,Micrótomo,Patología,Medio,Leica,LEI-467,SN985463,2022,15,2037,55131843,Operativo,Patología,6
+BIO-0429,Micrótomo,Patología,Medio,Leica,LEI-806,SN552770,2019,15,2034,55424301,Operativo,Patología,6
+BIO-0430,Criostato,Patología,Medio,Leica,LEI-321,SN668588,2013,15,2028,119717910,Operativo,Patología,6
+BIO-0431,Criostato,Patología,Medio,Leica,LEI-686,SN338357,2021,15,2036,124436515,Operativo,Patología,6
+BIO-0432,Criostato,Patología,Medio,Leica,LEI-236,SN948774,2013,15,2028,119615462,Operativo,Patología,6
+BIO-0433,Criostato,Patología,Medio,Leica,LEI-617,SN218234,2014,15,2029,119501489,Operativo,Patología,6
+BIO-0434,Criostato,Patología,Medio,Leica,LEI-734,SN566474,2020,15,2035,113060932,En mantenimiento,Patología,6
+BIO-0435,Criostato,Patología,Medio,Leica,LEI-664,SN274954,2013,15,2028,120718264,Operativo,Patología,6
+BIO-0436,Criostato,Patología,Medio,Leica,LEI-672,SN102065,2015,15,2030,120017394,Dado de baja,Patología,6
